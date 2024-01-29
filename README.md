@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThomasCaneday
 - 👀 I’m interested in Computer Science, Data Science, Web Development, Video Game Development, and Machine Learning
-- 🌱 I’m currently learning Java, C++, Python, SQL, HTML/CSS, and JavaScript.
+- 🌱 I’m currently learning Java, C++, Python, SQL, HTML/CSS, JavaScript, PHP, and R.
 - 💞️ I’m looking to collaborate on any type of project
 - 📫 How to reach me: thomascaneday@gmail.com
 
