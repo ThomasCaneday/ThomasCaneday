@@ -23,7 +23,7 @@
 - 🎓 **B.S. Computer Science, University of San Diego — Class of 2025**
 - 🎓 Incoming **M.S. Computer Science** student @ **Georgia Tech** (Fall 2025)  
 - 💸 **FinTech founder** of **Oink** – passive spare change investing web app that placed 2nd in USD TECh ($6,000)
-- 🌊 **GTRI MERMAID Buoy Project** – Edge AI + LoRa mesh for infrasound classification and maritime communication on embedded systems
+- 🌊 **GTRI MERMAID Buoy Project** – Edge AI + LoRa mesh for infrasound classification & maritime communication on embedded systems
 - 💡 Currently building: **Club Hoppr** (social nightlife web app) & **Oink** (crypto round-up web app)  
 - 🧑‍🔬 Interests: high‑frequency trading systems, distributed IoT, quantum neural networks  
 
